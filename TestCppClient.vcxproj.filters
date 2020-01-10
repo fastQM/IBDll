@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="AccountSummaryTags.cpp" />
+    <ClCompile Include="AvailableAlgoParams.cpp" />
+    <ClCompile Include="ContractSamples.cpp" />
+    <ClCompile Include="OrderSamples.cpp" />
+    <ClCompile Include="ScannerSubscriptionSamples.cpp" />
+    <ClCompile Include="StdAfx.cpp" />
+    <ClCompile Include="TestCppClient.cpp" />
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="interface.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AccountSummaryTags.h" />
+    <ClInclude Include="AvailableAlgoParams.h" />
+    <ClInclude Include="ContractSamples.h" />
+    <ClInclude Include="FAMethodSamples.h" />
+    <ClInclude Include="OrderSamples.h" />
+    <ClInclude Include="ScannerSubscriptionSamples.h" />
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="TestCppClient.h" />
+    <ClInclude Include="interface.h" />
+  </ItemGroup>
+</Project>
